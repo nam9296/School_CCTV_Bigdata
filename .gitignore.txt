@@ -18,4 +18,7 @@ ipython_config.py
 # driver
 driver/chromedriver.exe
 
+# data
+/Data
+
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
