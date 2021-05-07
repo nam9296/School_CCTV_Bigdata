@@ -19,8 +19,7 @@ ipython_config.py
 driver/chromedriver.exe
 
 # data
-Data/*.csv
-Data/*.xlsx
+Data/
 
 
 
