@@ -19,6 +19,9 @@ ipython_config.py
 driver/chromedriver.exe
 
 # data
-/Data
+Data/*.csv
+Data/*.xlsx
+
+
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
